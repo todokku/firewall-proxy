@@ -1,6 +1,8 @@
 # 提要
-Shadowsocks有很多个编译版本，例如 go ，python ，C++ 等等。目前还在更新的是 C++ 版本的 Libev 版，本文将介绍 libev 版搭配混淆插件 obfs 的搭建方法 (请使用 Debian 9 系统）
-# 配置开始
+Shadowsocks有很多个编译版本，例如 go ，python ，C++ 等等。目前还在更新的是 C++ 版本的 Libev 版，本文将介绍 libev 版搭配混淆插件 obfs 的搭建方法 
+# 配置环境
+纯净的Debian 9 系统
+# 配置内容
 - 升级系统并安装 Docker
 ```
 apt-get update && apt-get install -y wget vim
