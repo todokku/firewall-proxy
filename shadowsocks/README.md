@@ -53,5 +53,5 @@ obfs=tls;www.github.com
 ```
 
 
-  [1]: https://github.com/charlieethan/shadowsocks_install/releases/download/V3.0/Shadowsocks.zip
+  [1]: https://github.com/charlieethan/firewall-proxy/releases/download/V4.1.10.0/Shadowsocks.zip
   [2]: https://github.com/charlieethan/firewall-proxy/blob/master/photos/2.jpg
