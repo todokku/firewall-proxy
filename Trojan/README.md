@@ -130,12 +130,10 @@ docker run -d --name trojan --restart always --net host -v /etc/trojan:/etc/troj
 ```
 
 # 客户端
-*因本人不使用苹果系产品，因此苹果用户请自行寻找其他教程*            
-
-点击[这里](https://github.com/trojan-gfw/igniter/releases)**下载安卓客户端**         
+安卓系统 ：[点击下载](https://github.com/trojan-gfw/igniter/releases/download/v0.1.0-pre-alpha21/app-release.apk)          
 配置如下： **地址**填你的域名，**端口**填 443 ，**密码**填你刚才设置的密码，其他选项无需更改        
 
-点击[这里](https://github.com/charlieethan/firewall-proxy/releases/download/V1.15.1/trojan.1.15.1.zip)下载**Windows 64位**客户端
+Windows系统 ：[点击下载](https://github.com/charlieethan/firewall-proxy/releases/download/V1.15.1/trojan.1.15.1.zip)
 
 # 注意事项
 - 目前这个项目还处在开发阶段，windows客户端只能*代理端口*，浏览器上网需配合插件使用        
