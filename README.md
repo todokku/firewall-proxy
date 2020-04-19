@@ -1,5 +1,6 @@
 # 关于
-本项目旨在提供聚合式的代理软件搭建教程，包括常用的 **Shadowsocks** **V2ray** 以及正在开发的 **Trojan**
+本项目旨在提供聚合式的代理软件搭建教程，包括常用的 **Shadowsocks** **V2ray** 以及正在开发的 **Trojan**  
+适用的平台为 **Windows 7，Windows 10** 以及 **安卓 6 ~ 安卓 10**
 # 内容
 - Shadowsocks+obfs ：https://github.com/charlieethan/firewall-proxy/tree/master/shadowsocks  
 - V2ray+mkcp（无需域名）：https://github.com/charlieethan/firewall-proxy/tree/master/V2ray/V2ray%2Bmkcp  
