@@ -44,16 +44,12 @@ cd /usr/src && wget -N --no-check-certificate "https://raw.githubusercontent.com
 cd /usr/src && ./tcp.sh
 ```
 # 客户端
-安卓用户可以去 Google Play Store 下载 obfs 插件  
-Windows 用户可以点击 **[这里][1]** 下载加入 obfs 插件的客户端  
-这两项的配置如下：  
+安卓系统 ： [Shadowsocks下载](https://github.com/charlieethan/firewall-proxy/releases/download/V4.1.10.0/shadowsocks-5.0.6.apk) | [obfs插件下载](https://github.com/charlieethan/firewall-proxy/releases/download/V4.1.10.0/obfs-local-0.0.5.apk)    
+Windows系统 ：[点击下载](https://github.com/charlieethan/firewall-proxy/releases/download/V4.1.10.0/Shadowsocks.zip)  
+Windows系统 配置如下：  
 
-![2.jpg][2]
+![2.jpg](https://github.com/charlieethan/firewall-proxy/blob/master/photos/2.jpg)
 ```
 obfs-local
 obfs=tls;www.github.com
 ```
-
-
-  [1]: https://github.com/charlieethan/firewall-proxy/releases/download/V4.1.10.0/Shadowsocks.zip
-  [2]: https://github.com/charlieethan/firewall-proxy/blob/master/photos/2.jpg
