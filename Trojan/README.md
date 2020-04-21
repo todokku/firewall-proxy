@@ -130,7 +130,7 @@ docker run -d --name trojan --restart always --net host -v /etc/trojan:/etc/troj
 ```
 
 # 客户端
-安卓系统 ：[点击下载](https://github.com/trojan-gfw/igniter/releases/download/v0.1.0-pre-alpha21/app-release.apk)          
+安卓系统 ：[点击下载](https://github.com/trojan-gfw/igniter/releases/download/v0.9.1-beta/io.github.trojan_gfw.igniter-v0.9.1-beta.210000901.-release.apk)          
 配置如下： **地址**填你的域名，**端口**填 443 ，**密码**填你刚才设置的密码，其他选项无需更改        
 
 Windows系统 ：[点击下载](https://github.com/charlieethan/firewall-proxy/releases/download/V1.15.1/trojan.1.15.1.zip)
