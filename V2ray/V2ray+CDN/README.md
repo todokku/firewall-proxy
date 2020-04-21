@@ -122,7 +122,7 @@ cd /usr/src && ./tcp.sh
 **yourdomain**填你的域名 ，**id**和**alterId**填你上面设置的  
 **Path**填上面设置的路径 ，其余部分照抄即可
 # 客户端
-Windows系统: [点击下载](https://github.com/charlieethan/firewall-proxy/releases/download/V3.15.2/v2rayN.zip)
+Windows系统: [点击下载](https://github.com/charlieethan/firewall-proxy/releases/download/V3.16/v2rayN.zip)
 
 Android系统: [点击下载](https://github.com/charlieethan/firewall-proxy/releases/download/V3.15.2/v2rayNG-1.2.5.apk) 
 
