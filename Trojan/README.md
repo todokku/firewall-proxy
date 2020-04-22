@@ -133,8 +133,5 @@ docker run -d --name trojan --restart always --net host -v /etc/trojan:/etc/troj
 安卓系统 ：[点击下载](https://github.com/trojan-gfw/igniter/releases/download/v0.9.1-beta/io.github.trojan_gfw.igniter-v0.9.1-beta.210000901.-release.apk)          
 配置如下： **地址**填你的域名，**端口**填 443 ，**密码**填你刚才设置的密码，其他选项无需更改        
 
-Windows系统 ：[点击下载](https://github.com/charlieethan/firewall-proxy/releases/download/V1.15.1/trojan.1.15.1.zip)
-
-# 注意事项
-- 目前这个项目还处在开发阶段，windows客户端只能*代理端口*，浏览器上网需配合插件使用        
-请搜索 **SwitchyOmega** 安装并使用
+Windows系统 ：[点击下载](https://github.com/charlieethan/firewall-proxy/releases/download/V0.0.9/Trojan-Qt5.zip)
+项目地址 & 使用说明 ：https://github.com/TheWanderingCoel/Trojan-Qt5
